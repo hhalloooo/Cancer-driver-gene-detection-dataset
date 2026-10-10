@@ -1,5 +1,0 @@
-dataset,genes,omics_dimensions,directed_edge_entries,undirected_interactions,positives,negatives,unlabeled
-MCF7,16165,15,547530,273765,358,1581,14226
-AML,16165,8,547530,273765,597,1839,13729
-K562,16165,15,547530,273765,597,1839,13729
-Pan-cancer,13627,48,504378,252189,796,2187,10644
